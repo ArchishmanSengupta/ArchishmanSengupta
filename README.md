@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Linkedin and Youtube
 - 🤔 I’m looking for help with Projects
 - 💬 Ask me about AWS,GCP & mathematics!
-- 📫 How to reach me: [Twitter- @Archishman_Seng](https://twitter.com/archishman_seng?lang=en)
+- 📫 How to reach me: [Twitter- @Archishman_Seng](https://twitter.com/archishman_seng?lang=en) [LinkedIn- Archishman Sengupta](https://www.linkedin.com/in/archishman-sengupta-7154521b6/)
 - 😄 Pronouns: ...He/His
 - ⚡ Fun fact: i am a person who will push the door even if it says "PULL". XD 
 
