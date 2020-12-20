@@ -11,7 +11,12 @@
 - ⚡ Fun fact: i am a person who will push the door even if it says "PULL". XD 
 -
 **Certifications**
+
 [1. Developing AI Application on Azure](https://coursera.org/share/b480e4d6d34b718bd7c2f5e9f6b894b3)
+
+[2. Mathematics for Machine Learning: Multivariate Calculus](https://coursera.org/share/54b841503a16c3bcb70f7b5ff92c9320)
+
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=ArchishmanSengupta&&show_icons=true&title_color=000000&icon_color=008000&text_color=000000&bg_color=FFFFFF">
 
