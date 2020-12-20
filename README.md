@@ -20,6 +20,10 @@
 
 [4.Blockchain Basics](https://coursera.org/share/bd8d90f32c3da3d425f22039545f0124)
 
+[5.Python Data Structures](https://coursera.org/share/fb5a9e51068ee1a1eb3093181ca38e00)
+
+[6.SQL for Data Science](https://coursera.org/share/af1923d06ab1dfadbfa95551b196359f)
+
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=ArchishmanSengupta&&show_icons=true&title_color=000000&icon_color=008000&text_color=000000&bg_color=FFFFFF">
