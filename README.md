@@ -24,6 +24,8 @@
 
 [6.SQL for Data Science](https://coursera.org/share/af1923d06ab1dfadbfa95551b196359f)
 
+[7. Cyber Security in Manufacturing](https://coursera.org/share/3029e6db0d3e604c5b20e4d3083ec9b4)
+
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=ArchishmanSengupta&&show_icons=true&title_color=000000&icon_color=008000&text_color=000000&bg_color=FFFFFF">
