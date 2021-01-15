@@ -10,6 +10,12 @@
 - 😄 Pronouns: ...He/His
 - ⚡ Fun fact: i am a person who will push the door even if it says "PULL". XD 
 -
+
+**Roles**
+
+DSC Member IIT Patna 
+DSC IEM kolkata
+
 **Certifications**
 
 [1. Developing AI Application on Azure](https://coursera.org/share/b480e4d6d34b718bd7c2f5e9f6b894b3)
