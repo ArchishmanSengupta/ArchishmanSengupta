@@ -13,7 +13,7 @@
 
 **Roles**
 
-[DSC IIT Patna Member](https://dsciitpatna.github.io/) 
+[DSC IIT Patna Member](https://dsciitpatna.github.io/) <br>
 [DSC IEM Member](https://dsciem.tech/)
 
 
