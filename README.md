@@ -13,8 +13,9 @@
 
 **Roles**
 
-DSC Member IIT Patna 
-DSC IEM kolkata
+[DSC IIT Patna Member](https://dsciitpatna.github.io/) 
+[DSC IEM Member](https://dsciem.tech/)
+
 
 **Certifications**
 
