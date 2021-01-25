@@ -1,7 +1,7 @@
 ### Hola. I'm Archishman!:bowtie:👋
 
 
-- 🔭 I’m currently working on AWS
+- 🔭 I’m currently working on ReactJs
 - 🌱 I’m currently learning Flutter,GraphQL,JQuery,Nodejs,Django,OpenCV,Hyperleadger
 - 👯 I’m looking to collaborate on Linkedin and Youtube
 - 🤔 I’m looking for help with Projects
