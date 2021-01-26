@@ -37,3 +37,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ArchishmanSengupta&&show_icons=true&title_color=000000&icon_color=008000&text_color=000000&bg_color=FFFFFF">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArchishmanSengupta)](https://github.com/anuraghazra/github-readme-stats)
+
