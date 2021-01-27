@@ -21,6 +21,8 @@
 
 - ⚡ Fun fact **i am a person who will push the door even if it says "PULL". XD**
 
+![github](https://user-images.githubusercontent.com/71402528/106022694-225cfd80-60ec-11eb-9d3d-78cf6bf8d2ef.gif)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/archishmansengupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/archishmansengupta" height="30" width="40" /></a>
