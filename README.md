@@ -33,6 +33,9 @@
 
 [7. Cyber Security in Manufacturing](https://coursera.org/share/3029e6db0d3e604c5b20e4d3083ec9b4)
 
+**Languages i'm familiar with**
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" />
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=ArchishmanSengupta&&show_icons=true&title_color=000000&icon_color=008000&text_color=000000&bg_color=FFFFFF">
