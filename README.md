@@ -1,45 +1,42 @@
-### Hola. I'm Archishman!:bowtie:👋
+<h1 align="center">Hi 👋, I'm Archishman Sengupta</h1>
+<h3 align="center">I'm a junior studying computer science from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=archishmansengupta&label=Profile%20views&color=0e75b6&style=flat" alt="archishmansengupta" /> </p>
 
-- 🔭 I’m currently working on ReactJs
-- 🌱 I’m currently learning Flutter,GraphQL,JQuery,Nodejs,Django,OpenCV,Hyperleadger
-- 👯 I’m looking to collaborate on Linkedin and Youtube
-- 🤔 I’m looking for help with Projects
-- 💬 Ask me anything  [here](https://github.com/ArchishmanSengupta/ArchishmanSengupta/issues)
-- 📫 How to reach me: [Twitter- @Archishman_Seng](https://twitter.com/archishman_seng?lang=en)<br> [LinkedIn- Archishman Sengupta](https://www.linkedin.com/in/archishman-sengupta-7154521b6/)
-- 😄 Pronouns: ...He/His
-- ⚡ Fun fact: i am a person who will push the door even if it says "PULL". XD 
--
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archishmansengupta" alt="archishmansengupta" /></a> </p>
 
-**Roles**
+- 🔭 I’m currently working on **Reactjs**
 
-[DSC IIT Patna Member](https://dsciitpatna.github.io/) <br>
-[DSC IEM Member](https://dsciem.tech/)
+- 🌱 I’m currently learning **Flutter,GraphQL,JQuery,Nodejs,Django,OpenCV,Hyperleadger**
 
+- 👯 I’m looking to collaborate on **Linkedin and Youtube**
 
-**Certifications**
+- 🤝 I’m looking for help with **Projects**
 
-[1. Developing AI Application on Azure](https://coursera.org/share/b480e4d6d34b718bd7c2f5e9f6b894b3)
+- 📝 I regularly write articles on [https://archishman1808.medium.com/](https://archishman1808.medium.com/)
 
-[2. Mathematics for Machine Learning: Multivariate Calculus](https://coursera.org/share/54b841503a16c3bcb70f7b5ff92c9320)
+- 💬 Ask me about **anything**
 
-[3.Programming Foundations with JavaScript, HTML and CSS](https://coursera.org/share/bf86e1bd90026fd1d9452485ffa25b00)
+- 📫 How to reach me **archishman1808@gmail.com**
 
-[4.Blockchain Basics](https://coursera.org/share/bd8d90f32c3da3d425f22039545f0124)
+- ⚡ Fun fact **i am a person who will push the door even if it says "PULL". XD**
 
-[5.Python Data Structures](https://coursera.org/share/fb5a9e51068ee1a1eb3093181ca38e00)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/https://dev.to/archishmansengupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/archishmansengupta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/archishman-sengupta-7154521b6/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/archishman-sengupta-7154521b6/" height="30" width="40" /></a>
+<a href="https://instagram.com/cluster_of_seven_stars" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cluster_of_seven_stars" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/archishman1808" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="archishman1808" height="30" width="40" /></a>
+</p>
 
-[6.SQL for Data Science](https://coursera.org/share/af1923d06ab1dfadbfa95551b196359f)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://emberjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg" alt="ember" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-[7. Cyber Security in Manufacturing](https://coursera.org/share/3029e6db0d3e604c5b20e4d3083ec9b4)
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/archishman"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="archishman" /></a></p><br><br>
 
-**Languages i'm familiar with**
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=archishmansengupta&show_icons=true&locale=en&layout=compact" alt="archishmansengupta" /></p>
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/HTML5svg" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=archishmansengupta&show_icons=true&locale=en" alt="archishmansengupta" /></p>
 
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=ArchishmanSengupta&&show_icons=true&title_color=000000&icon_color=008000&text_color=000000&bg_color=FFFFFF">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArchishmanSengupta)](https://github.com/anuraghazra/github-readme-stats)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=archishmansengupta&" alt="archishmansengupta" /></p>
