@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter,GraphQL,JQuery,Nodejs,Django,OpenCV,Hyperleadger**
 
-- 👯 I’m looking to collaborate on **Linkedin and Youtube**
+- 👯 I’m looking to collaborate on **[LinkedIn- Archishman Sengupta](https://www.linkedin.com/in/archishman-sengupta-7154521b6/) and Youtube**
 
 - 🤝 I’m looking for help with **Projects**
 
