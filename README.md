@@ -6,8 +6,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archishmansengupta&theme=dracula" alt="archishmansengupta" /></a> </p>
 
- [![Twitter Follow](https://img.shields.io/twitter/follow/Archishman_Seng?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?   original_referer=https%3A%2F%2Fgithub.com%2FArchishman_Seng&screen_name=Archishman_Seng)
- 
 - 🔭 I’m currently working on **Reactjs**
 
 - 🌱 I’m currently learning **Flutter, GraphQL, JQuery, Nodejs, Django, OpenCV, Hyperleadger, Tensorflow **
@@ -23,6 +21,9 @@
 - 📫 How to reach me **archishman1808@gmail.com**
 
 - ⚡ Fun fact **i am a person who will push the door even if it says "PULL". XD**
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4n2jer98pvye6a6vg6kb3ernn&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=4n2jer98pvye6a6vg6kb3ernn&redirect=true)
 
 ![github](https://user-images.githubusercontent.com/71402528/106022694-225cfd80-60ec-11eb-9d3d-78cf6bf8d2ef.gif)
 
@@ -44,5 +45,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=archishmansengupta&show_icons=true&locale=en" alt="archishmansengupta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=archishmansengupta&" alt="archishmansengupta" /></p>
+
 
 
