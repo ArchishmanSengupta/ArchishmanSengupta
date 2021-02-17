@@ -22,6 +22,9 @@
 
 - ⚡ Fun fact **i am a person who will push the door even if it says "PULL". XD**
 
+## Experience
+
+Open-Souce Contributer at GirlScript Foundation.
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4n2jer98pvye6a6vg6kb3ernn&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=4n2jer98pvye6a6vg6kb3ernn&redirect=true)
 
