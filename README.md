@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Reactjs**
 
-- 🌱 I’m currently learning **Flutter, GraphQL, JQuery, Nodejs, Django, OpenCV, Hyperleadger, Tensorflow **
+- 🌱 I’m currently learning **Flutter, GraphQL, JQuery, Nodejs, Django, OpenCV, Hyperleadger, Tensorflow, AngularJs **
 
 - 👯 I’m looking to collaborate on **[LinkedIn- Archishman Sengupta](https://www.linkedin.com/in/archishman-sengupta-7154521b6/) and [youtube](https://www.youtube.com/channel/UC21mF7Vs126xyTjK9V1y1gA)**
 
