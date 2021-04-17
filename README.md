@@ -27,8 +27,6 @@
 Open-Souce Contributer at GirlScript Foundation.
 1st Year, 1st Sem SGPA: 9.55
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4n2jer98pvye6a6vg6kb3ernn&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=4n2jer98pvye6a6vg6kb3ernn&redirect=true)
-
 ![github](https://user-images.githubusercontent.com/71402528/106022694-225cfd80-60ec-11eb-9d3d-78cf6bf8d2ef.gif)
 
 <h3 align="left">Connect with me:</h3>
