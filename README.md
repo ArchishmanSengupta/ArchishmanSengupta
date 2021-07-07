@@ -23,7 +23,8 @@
 - ⚡ Fun fact **i am a person who will push the door even if it says "PULL". XD**
 
 ## Experience
-
+Application Developer Intern,IEM -IEDC, Funded by DST, Govt. of India Kolkata <br>
+<br>
 Open-Souce Contributer at GirlScript Foundation.
 1st Year, 1st Sem SGPA: 9.55
 
