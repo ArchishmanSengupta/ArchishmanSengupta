@@ -1,32 +1,27 @@
 <h1 align="center">Hi 👋, I'm Archishman Sengupta</h1>
-<h3 align="center">I'm a junior studying computer science from India</h3>
+<h3 align="center">App Developer | Web Developer | UI/UX Designer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archishmansengupta&label=Profile%20views&color=0e75b6&style=flat" alt="archishmansengupta" /> </p>
-
+<!-- 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archishmansengupta&theme=dracula" alt="archishmansengupta" /></a> </p>
-
-- 🔭 I’m currently working on **Reactjs**
-
-- 🌱 I’m currently learning **Flutter, GraphQL, JQuery, Nodejs, Django, OpenCV, Hyperleadger, Tensorflow, AngularJs **
-
-- 👯 I’m looking to collaborate on **[LinkedIn- Archishman Sengupta](https://www.linkedin.com/in/archishman-sengupta-7154521b6/) and [youtube](https://www.youtube.com/channel/UC21mF7Vs126xyTjK9V1y1gA)**
-
+ -->
+ I make elegantly professional 🌍 web apps and 📱 flutter apps for a living and also design user experiences 🎨
+ 
+- ✈️ Hire me for remote work & internships
+-  💼 Do read my resume here: [archishmansengupta.github.io](https://archishmansengupta.github.io/portfolio/)
+- 👯 I’m looking to collaborate on **[LinkedIn](https://www.linkedin.com/in/archishman-sengupta-7154521b6/) and [youtube](https://www.youtube.com/channel/UC21mF7Vs126xyTjK9V1y1gA)**
 - 🔎 Stalk me in [Archishman Sengupta](https://www.stopstalk.com/user/profile/ArchishmanSengupta)
-
 - 📝 I regularly write articles on [https://archishman1808.medium.com/](https://archishman1808.medium.com/)
-
 - 💬 Ask me about **anything**
-
 - 📫 How to reach me **archishman1808@gmail.com**
-
 - ⚡ Fun fact **i am a person who will push the door even if it says "PULL". XD**
 
-## Experience
+<!-- ## Experience
 Application Developer Intern,IEM -IEDC, Funded by DST, Govt. of India Kolkata <br>
 <br>
 Open-Souce Contributer at GirlScript Foundation.
-1st Year, 1st Sem SGPA: 9.55
+1st Year, 1st Sem SGPA: 9.55 -->
 
 ![github](https://user-images.githubusercontent.com/71402528/106022694-225cfd80-60ec-11eb-9d3d-78cf6bf8d2ef.gif)
 
