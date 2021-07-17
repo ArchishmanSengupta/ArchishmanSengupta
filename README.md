@@ -1,3 +1,4 @@
+
 <h1 align="center">Hey, I'm Archishman Sengupta <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 <h2 align="center">App Developer | Web Developer | UI/UX Designer</h2>
 
@@ -6,8 +7,10 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archishmansengupta&theme=dracula" alt="archishmansengupta" /></a> </p>
  -->
  
+<img src="https://user-images.githubusercontent.com/71402528/126032676-87d9d45e-2563-4d5d-a190-4a502bc3b9b9.png" height="200px" width="200px" alt="illustration" align="center">
+
  
- <a href="https://twitter.com/Archishman_Seng" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/archishman-sengupta/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+<a href="https://twitter.com/Archishman_Seng" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/archishman-sengupta/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 Hey! I'm Archishman, I make elegantly professional 🌍 web apps and 📱 flutter apps for a living and also design user experiences 🎨. I have a soft spot for technology and communities, Software Development, Developer Relations, UI/UX Design, and Product Management 💖! You can find my resume in my [**Portfolio**](https://archishmansengupta.github.io/portfolio/).I regularly write articles on [**medium**](https://archishman1808.medium.com/) I'm working on web development projects on GitHub for everybody to use which you can find here!  Nowadays, I’m learning ReactJS and  Ruby on Rails. I regularly practice DSA questions & here is the  [**Summation**](https://www.stopstalk.com/user/profile/ArchishmanSengupta) and I'm always up for quick coding brainstorming sessions! I am an open source advocate. I also run a small [**YouTube Channel**](https://www.youtube.com/channel/UC21mF7Vs126xyTjK9V1y1gA) ! <br>
 ✈️ Hire me for remote work & internships
 
