@@ -1,4 +1,5 @@
 
+
 <h1 align="center">Hey, I'm Archishman Sengupta <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 <h2 align="center">App Developer | Web Developer | UI/UX Designer</h2>
 
@@ -7,7 +8,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archishmansengupta&theme=dracula" alt="archishmansengupta" /></a> </p>
  -->
  
-<img src="https://user-images.githubusercontent.com/71402528/126032676-87d9d45e-2563-4d5d-a190-4a502bc3b9b9.png" height="200px" width="200px" alt="illustration" align="center">
+<img src="https://user-images.githubusercontent.com/71402528/126039381-d678d754-b37f-4ee6-a6c8-102444575094.png" height="200px" width="250px" alt="illustration" align="left">
 
  
 <a href="https://twitter.com/Archishman_Seng" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/archishman-sengupta/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
